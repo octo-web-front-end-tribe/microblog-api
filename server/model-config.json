@@ -35,5 +35,9 @@
   "message": {
     "dataSource": "db",
     "public": true
+  },
+  "subscription": {
+    "dataSource": "db",
+    "public": true
   }
 }
